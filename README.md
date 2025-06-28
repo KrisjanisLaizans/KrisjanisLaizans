@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KrisjanisLaizans
 - 👀 I’m interested in anythink.
-- 🌱 I’m currently learning HTML, CSS and JS.
+- 🌱 I’m currently learning JS.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
